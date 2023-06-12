@@ -6,9 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portofolio - Front-End Developer</title>
   <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,800&display=swap" rel="stylesheet">
+  <script src="./javascript.js"></script>
 </head>
 <body>
 
@@ -23,7 +25,8 @@
 
     <!--Meniul-->
     <div class="topnav">
-      <nav>
+      <nav> 
+        <a href="./blog.html" target="_blank">BLOG</a>
         <a href="#contact">CONTACT</a>
         <a href="#my_projects">MY PROJECTS</a>
         <a href="#skills">SKILLS</a>
@@ -84,12 +87,17 @@
     <section class="skills_section" id="skills">
       <p class="skills_title">Skills</p>
       <p class="skills_subtitle_dev">Web Development</p>
-      <div class="skills_list">
-        <p>HTML5</p>
-        <p>CSS3</p>
-        <p>JAVA SCRIPT</p>
-        <p>GIT</p>
-        <p>SQL</p>
+      <div class="wrapperSkills">
+        <i id="left" class="fa-solid fa-angle-left"></i>
+        <div class="skills_list">
+        <img src="./resources/img1Html.jpg" alt="img" draggable="false">
+        <img src="./resources/img2Css.jpg" alt="img" draggable="false">
+        <img src="./resources/img3JavaScript.jpg" alt="img" draggable="false">
+        <img src="./resources/img4.png" alt="img" draggable="false">
+        <img src="./resources/img5Sql.jpg" alt="img" draggable="false">
+        <img src="./resources/imgg6React.png" alt="img" draggable="false">
+        </div>
+        <i id="right" class="fa-solid fa-angle-right"></i>
       </div>
       <p class="skills_subtitle_design">Design</p>
       <div class="design_list">
