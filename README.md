@@ -5,7 +5,7 @@
 - I started this jorney this year and so far I'm loving it! For my first course in this area, I had to do a site that resume all the things that I've learn there.
 
 - So, I made a portofolio for me. The deisgn is my personal concept.
-- I used all the three languages : HTML, for structure, CSS, for style, and of course, Java Script to make the buttons run. The methode was "hard coding" for my personal growth. But, in the future, I plan to study also frameworks.
+- I used all the three languages : HTML, for structure, CSS, for style, and of course, Java Script to make the buttons run. The method was "hard coding" for my personal growth. But, in the future, I plan to study also frameworks.
 
   <h2>Install</h2>
   
