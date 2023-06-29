@@ -788,6 +788,7 @@ footer {
     align-items: center;
     justify-items: center;
     margin-top: 80px;
+    
   }
 
   .photo_cat{
@@ -798,32 +799,32 @@ footer {
     flex-direction: column;
     bottom: 0px;
     align-content: center;
+    top: 380px;
   }
   
   .about_me_text {
     height: 60px;
     padding-bottom: 30px;
-		padding-left: 0px;
   }
 
   .text1 {
     font-size: 8px;
-		padding-left: 0px;
+    margin-left: 30px;
   }
 
   .text2 {
     font-size: 15px;
     align-content: center;
-		padding-left: 0px;
+    margin-left: 30px;
   }
 
   .text2color {
     font-size: 15px;
     color:#456F7D;
     text-shadow: 0 0 4px #33545f ;
-		padding-left: 0px;
+    margin-left: 30px;
   }
-
+	
   /*My Projects*/
   
   .myproject_text {
