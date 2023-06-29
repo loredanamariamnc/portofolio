@@ -202,20 +202,24 @@ html,body {
 .about_me_text {
   height: 120px;
   padding-bottom: 30px;
+	padding-left: 10px;
 }
 
 .text1 {
   font-size: 14px;
+	padding-left: 10px;
 }
 
 .text2 {
   font-size: 20px;
+	padding-left: 10px;
 }
 
 .text2color {
   font-size: 20px;
   color:#456F7D;
   text-shadow: 0 0 4px #33545f ;
+	padding-left: 10px;
 }
 
 /*Skills*/
@@ -799,21 +803,25 @@ footer {
   .about_me_text {
     height: 60px;
     padding-bottom: 30px;
+		padding-left: 0px;
   }
 
   .text1 {
     font-size: 8px;
+		padding-left: 0px;
   }
 
   .text2 {
     font-size: 15px;
     align-content: center;
+		padding-left: 0px;
   }
 
   .text2color {
     font-size: 15px;
     color:#456F7D;
     text-shadow: 0 0 4px #33545f ;
+		padding-left: 0px;
   }
 
   /*My Projects*/
